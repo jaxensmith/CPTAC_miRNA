@@ -65,7 +65,7 @@ randomly to one location.
 
 ------------------------------------------------------------------------
 
-### Couting:
+### Counting:
 
 For each mature miRNA and precursor miRNA, the number of reads were
 counted. The raw counts were then converted to TPM (Transcripts per
